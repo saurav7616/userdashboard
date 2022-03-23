@@ -1,0 +1,9 @@
+html,body{
+  margin : 2% 5%;
+  background-color: rgb(31, 24, 19);
+  color : white;
+}
+
+.no-user{
+  float : left;
+}
